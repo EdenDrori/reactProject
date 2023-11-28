@@ -19,4 +19,5 @@ const StateCompo = () => {
     </Fragment>
   );
 };
+
 export default StateCompo;
