@@ -49,7 +49,9 @@ Contact:
 For any inquiries or assistance, feel free to contact the project maintainers:
 
 Eden Drori
+
 edendrori36@gmail.com
+
 Thank you for using the Business Card Website! We hope it enhances your professional networking experience.
 
 
